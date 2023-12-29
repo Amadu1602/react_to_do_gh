@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "December 29, 2023 7:52:56 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "Fourth post",
+      "datetime": "December 29, 2023 12:56:02 PM",
+      "body": "Finally got the edit function to work. Yippee"
+    },
+    {
+      "id": 5,
+      "title": "Fifth Blog",
+      "datetime": "December 29, 2023 1:02:33 PM",
+      "body": "Testing posts ..1...2!!!"
+    },
+    {
+      "id": 6,
+      "title": "Another one!!",
+      "datetime": "December 29, 2023 1:11:43 PM",
+      "body": "Its me again"
+    }
+  ]
+}
